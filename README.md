@@ -12,7 +12,7 @@ Dataset link:https://code.earthengine.google.com/?asset=projects/ee-globalwheat1
 
 Global Demo link:
 https://ee-cff202411.projects.earthengine.app/view/fkanwheat
-
+https://ee-cff520520.projects.earthengine.app/view/chinafkanwheat
 Acknowledgments：
 https://github.com/KindXiaoming/pykan
 
